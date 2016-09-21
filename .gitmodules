@@ -1,0 +1,9 @@
+[submodule "asser-elec"]
+	path = asser-elec
+	url = https://github.com/PhoenixRobotik/asser-elec
+[submodule "alim-elec"]
+	path = alim-elec
+	url = https://github.com/PhoenixRobotik/alim-elec
+[submodule "strategie-elec"]
+	path = strategie-elec
+	url = https://github.com/PhoenixRobotik/strategie-elec
