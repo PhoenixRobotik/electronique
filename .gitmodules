@@ -10,3 +10,6 @@
 [submodule "kiwi-elec"]
 	path = kiwi-elec
 	url = https://github.com/PhoenixRobotik/kiwi-elec
+[submodule "RaspiZeroCanDoCan"]
+	path = RaspiZeroCanDoCan
+	url = https://github.com/PhoenixRobotik/RaspiZeroCanDoCan
