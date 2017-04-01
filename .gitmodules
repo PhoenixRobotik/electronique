@@ -13,3 +13,6 @@
 [submodule "RaspiZeroCanDoCan"]
 	path = RaspiZeroCanDoCan
 	url = https://github.com/PhoenixRobotik/RaspiZeroCanDoCan
+[submodule "YaCANi"]
+	path = YaCANi
+	url = https://github.com/PhoenixRobotik/YaCANi
